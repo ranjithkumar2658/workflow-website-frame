@@ -38,6 +38,6 @@ The project uses JavaScript to dynamically manage tasks, projects, filtering, na
 >
 > This project helped me strengthen my skills in **frontend development, responsive UI design, JavaScript DOM manipulation, and local data persistence.**
 >
-> 🔗 **Live Demo:** `file:///C:/Users/rrk54/.vscode/New%20folder/index.html`
+> 🔗 **Live Demo:** <file:///C:/Users/rrk54/.vscode/New%20folder/index.html>
 >
 > #WebDevelopment #HTML #CSS #JavaScript #FrontendDevelopment #GitHub #ProjectManagement #UIDesign #Portfolio #Ranjithkumar
